@@ -829,16 +829,3 @@ This is aimed for complete beginners in Flutter, to get them acquainted with the
 </td>
 </tr>
   </table>
-
-
-## Contributors
-Pooja Bhaumik <br>
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/pblead26.svg?style=social&label=Follow)](https://twitter.com/pblead26)
-
-
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
