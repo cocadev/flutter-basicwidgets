@@ -1,4 +1,4 @@
-# Basic Widgets Examples with Eugene
+# Basic Widgets with Flutter
 
 This is aimed for complete beginners in Flutter, to get them acquainted with the various basic widgets in Flutter. 
 
